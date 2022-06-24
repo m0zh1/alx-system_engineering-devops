@@ -8,3 +8,4 @@
 7-everybody adds execution permission to owner, group, and others
 8-James_Bond sets permission to 007
 9-John_Doe sets file mode to rwxr-x-wx
+Set mode of file 'hello' the same as 'olleh'
