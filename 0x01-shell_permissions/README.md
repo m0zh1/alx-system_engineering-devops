@@ -2,3 +2,4 @@
 1-wh_am_i file prints effective username of current user
 2-groups prints all the groups current user is part of
 3-new_owner changes owner of file
+4-empty creates an empty file
