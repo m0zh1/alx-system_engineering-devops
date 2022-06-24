@@ -8,4 +8,8 @@
 7-everybody adds execution permission to owner, group, and others
 8-James_Bond sets permission to 007
 9-John_Doe sets file mode to rwxr-x-wx
-Set mode of file 'hello' the same as 'olleh'
+10-mirror_permissions Set mode of file 'hello' the same as 'olleh'
+[master 1725dd0] Sets the mode using --refence flag
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x01-shell_permissions/10-mirror_permissions
+11-directories_permissions adds execute permission to all subdirs of the current di owner, group and others - Regular files arent changed
