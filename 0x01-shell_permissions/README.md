@@ -17,3 +17,4 @@
 13-change_group change group owner
 100-change_owner_and_group of files and dir in working dir
 101-symbolic_link changes the owner and the group of _hello, where _hello is a symbolic link
+102-if_only changes owner of file 'hello' to 'betty' only if it is owned by user 'guillaume'
