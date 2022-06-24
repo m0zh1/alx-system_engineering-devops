@@ -15,3 +15,4 @@
 11-directories_permissions adds execute permission to all subdirs of the current di owner, group and others - Regular files arent changed
 12-directory_permissions creates a dir 'my_dir' with permissions 751 in working dir
 13-change_group change group owner
+100-change_owner_and_group of files and dir in working dir
