@@ -14,3 +14,4 @@
  create mode 100755 0x01-shell_permissions/10-mirror_permissions
 11-directories_permissions adds execute permission to all subdirs of the current di owner, group and others - Regular files arent changed
 12-directory_permissions creates a dir 'my_dir' with permissions 751 in working dir
+13-change_group change group owner
