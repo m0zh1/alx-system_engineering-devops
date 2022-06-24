@@ -16,3 +16,4 @@
 12-directory_permissions creates a dir 'my_dir' with permissions 751 in working dir
 13-change_group change group owner
 100-change_owner_and_group of files and dir in working dir
+101-symbolic_link changes the owner and the group of _hello, where _hello is a symbolic link
