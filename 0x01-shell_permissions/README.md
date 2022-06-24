@@ -7,3 +7,4 @@
 6-multiple_permissions adds execute permission to owner&group and read to others
 7-everybody adds execution permission to owner, group, and others
 8-James_Bond sets permission to 007
+9-John_Doe sets file mode to rwxr-x-wx
