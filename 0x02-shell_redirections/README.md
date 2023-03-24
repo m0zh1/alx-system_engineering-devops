@@ -49,4 +49,7 @@ Shell, I/O Redirections and Filters
 
 22. Script that displays all users and their home directories, sorted by users.
 
+23. Script that finds all empty files and directories in the current directory and all sub-directories. 
+	:Only names of the files and directories should be displayed (not the path). Hidden files should be listed also, one file name per line and the listing should end with a new line. 
+	:Use of basename, grep, egrep, fgrep or rgrep is not allowed.
  
