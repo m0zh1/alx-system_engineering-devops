@@ -22,4 +22,31 @@ Shell, I/O Redirections and Filters
 
 10. No more javascript - Delete all the regular files, not directories, with a js extension present in the current dir and all its subfolders.
 
+11. Script to count number of direcories and sub-directories in the current directory.
+	The current parent directories should not be taken into account. Hidden directories should be counted.
 
+12. Script that displays the 10 newest files in the current directory.
+
+13. Script that takes a list of words as input and prints only words that appear exactly once.
+	Input format: one line, one word
+	Output format: one line, one word words should be sorted
+
+14. Script to display lines containting the pattern "root" from the file /etc/passwd
+
+15. Display the number of lines that contain the pattern "bin" in the file /etc/passwd.
+
+16. Script to display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
+
+17. Script to display all the lines in the file /etc/passwd that don't contain the pattern "bin".
+
+18. A script to display all the lines of the file /etc/ssh/sshd_config starting with a letter. Include capital letters as well.
+
+19. A script to replace all characters 'A' and 'c' from inout to 'z' and 'e' respectively.
+
+20. A script that removes all letters 'c' and 'C' from input.
+
+21. Reverse teh scripts input.
+
+22. Script that displays all users and their home directories, sorted by users.
+
+ 
