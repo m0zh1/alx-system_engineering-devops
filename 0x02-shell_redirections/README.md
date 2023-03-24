@@ -178,4 +178,6 @@ Shell, I/O Redirections and Filters
 25. A script that decodes acrostics that use the first letter of each line.
 	:The 'decoded' message has to end with a new line
 	:Use of grep, egrep, fgrep or rgrep is not allowed.
- 
+26.Script that parses web servers' logs in TSV format as input and displays the 11 hosts or IP addr which did the most requests.
+	:Order by number of requests, most active host or IP at the top.
+	:Use of grep, egrep, fgrep or rgrep not allowed. 
