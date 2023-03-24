@@ -33,7 +33,17 @@ SHELL Init files, Variables and Expansions.
 	:one combination per line
 	:Output: alpha ordered, without oo, maximum chars 64.
 
-13. Scvript that prints a number with two decimal places, followed by newline.
+13. Script that prints a number with two decimal places, followed by newline.
 	:number stored in environment variable NUM.
 
+14. Script to convert a number from decimal to hexadecimal.
+
+15. Script that encodes and decodes text using the rot13 encryption assuming ASCII.
+
+16. Script that prints every other line from input, starting with the first line.
+
+17. Script that adds the two numbers stored in the env variables WATER and STIR and prints the sum.
+	:WATER is in base water
+	:STIR is in base stir
+	:Sum should be in base bestchol
 	
