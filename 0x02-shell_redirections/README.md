@@ -52,4 +52,124 @@ Shell, I/O Redirections and Filters
 23. Script that finds all empty files and directories in the current directory and all sub-directories. 
 	:Only names of the files and directories should be displayed (not the path). Hidden files should be listed also, one file name per line and the listing should end with a new line. 
 	:Use of basename, grep, egrep, fgrep or rgrep is not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+24. Script that lists all files with .gif extension in the current directory and all its sub-directories. 
+	:Hidden files should be listed and only files should be listed.
+	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
+	:One file name per line and listing should end with a newline
+	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
  
