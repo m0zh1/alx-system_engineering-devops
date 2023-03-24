@@ -22,3 +22,18 @@ SHELL Init files, Variables and Expansions.
 	:Value: School
 
 8. A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+9. Script that prints the result of POWER divided by DIVIDE, followed by newline. POWER and DIVIDE are environment variables.
+
+10. Script that displays the result of BREATH to the power LOVE. BREATH and LOVE are env variables.
+
+11. A script to convert a number from binary to decimal.
+
+12. Script that prints all possible combinations of two letters except oo	:letters are lower cases
+	:one combination per line
+	:Output: alpha ordered, without oo, maximum chars 64.
+
+13. Scvript that prints a number with two decimal places, followed by newline.
+	:number stored in environment variable NUM.
+
+	
