@@ -172,4 +172,10 @@ Shell, I/O Redirections and Filters
 	:Names of the files should be displayed without their extensions and files should be sorted by byte values, but case-insensitive.
 	:One file name per line and listing should end with a newline
 	:Use of basename, grep, egrep, fgrep, rgrep not allowed.
+25. A script that decodes acrostics that use the first letter of each line.
+	:The 'decoded' message has to end with a new line
+	:Use of grep, egrep, fgrep or rgrep is not allowed.
+25. A script that decodes acrostics that use the first letter of each line.
+	:The 'decoded' message has to end with a new line
+	:Use of grep, egrep, fgrep or rgrep is not allowed.
  
